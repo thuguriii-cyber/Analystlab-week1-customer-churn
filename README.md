@@ -38,7 +38,7 @@ support customer retention strategies.
 ## Repository Contents
 | File | Description |
 |---|---|
-| `AnalystLab_Week1.xlsx` | Dataset inspection, all required charts with interpretations, insights & recommendations |
+| `AnalystLab Week1.xlsx` | Dataset inspection, all required charts with interpretations, insights & recommendations |
 | `Business Understanding Report.docx` | 1–2 page business understanding writeup |
 | `Dataset Inspection Report.docx` | Detailed report on rows, columns, data types, missing values, and duplicates |
 | `AnalystLab Week1 Presentation.pptx` | Business presentation summarising findings |
